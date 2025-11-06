@@ -1,1 +1,1 @@
-# YaoMing
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&multiline=true&width=435&lines=Hi+-+I'm+Yao+Ming+!+Software+Engineer+;Currently+i'm+going+to+explore+more+about+AI+!+)](https://git.io/typing-svg)
